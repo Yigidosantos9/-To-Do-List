@@ -1,2 +1,11 @@
 # -To-Do-List
-Basic To-Do List which can help people in their daily life
+
+## Description
+This project is a simple to-do list application designed to help manage and track daily tasks.
+
+## Features
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+- Switch theme
+- User friendly interface
